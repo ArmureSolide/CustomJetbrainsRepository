@@ -2,5 +2,5 @@
     <plugin
         id="fr.openium.autocommit.actions.FillCommitMessageAction"
         version="1.0.0-SNAPSHOT"
-        url="https://github.com/ArmureSolide/AutoCommitMessage/releases/download/1.0.0-SNAPSHOT/AutoCommit-1.0-SNAPSHOT.zip"/>
+        url="https://api.github.com/repos/ArmureSolide/AutoCommitMessage/releases/assets/228762537"/>
 </plugins>
